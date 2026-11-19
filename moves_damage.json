@@ -1,0 +1,4754 @@
+{
+  "absorb": {
+    "id": "absorb",
+    "num": 71,
+    "power": 20,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "accelerock": {
+    "id": "accelerock",
+    "num": 709,
+    "power": 40,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "acid": {
+    "id": "acid",
+    "num": 51,
+    "power": 40,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "acidspray": {
+    "id": "acidspray",
+    "num": 491,
+    "power": 40,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "acrobatics": {
+    "id": "acrobatics",
+    "num": 512,
+    "power": 55,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aerialace": {
+    "id": "aerialace",
+    "num": 332,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aeroblast": {
+    "id": "aeroblast",
+    "num": 177,
+    "power": 100,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "aircutter": {
+    "id": "aircutter",
+    "num": 314,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "airslash": {
+    "id": "airslash",
+    "num": 403,
+    "power": 75,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "alluringvoice": {
+    "id": "alluringvoice",
+    "num": 914,
+    "power": 80,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "anchorshot": {
+    "id": "anchorshot",
+    "num": 677,
+    "power": 80,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ancientpower": {
+    "id": "ancientpower",
+    "num": 246,
+    "power": 60,
+    "type": "Rock",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "appleacid": {
+    "id": "appleacid",
+    "num": 787,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "aquacutter": {
+    "id": "aquacutter",
+    "num": 895,
+    "power": 70,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aquajet": {
+    "id": "aquajet",
+    "num": 453,
+    "power": 40,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aquastep": {
+    "id": "aquastep",
+    "num": 872,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aquatail": {
+    "id": "aquatail",
+    "num": 401,
+    "power": 90,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "armorcannon": {
+    "id": "armorcannon",
+    "num": 890,
+    "power": 120,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "armthrust": {
+    "id": "armthrust",
+    "num": 292,
+    "power": 15,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "assurance": {
+    "id": "assurance",
+    "num": 372,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "astonish": {
+    "id": "astonish",
+    "num": 310,
+    "power": 30,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "astralbarrage": {
+    "id": "astralbarrage",
+    "num": 825,
+    "power": 120,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "attackorder": {
+    "id": "attackorder",
+    "num": 454,
+    "power": 90,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aurasphere": {
+    "id": "aurasphere",
+    "num": 396,
+    "power": 80,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "aurawheel": {
+    "id": "aurawheel",
+    "num": 783,
+    "power": 110,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "aurorabeam": {
+    "id": "aurorabeam",
+    "num": 62,
+    "power": 65,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "avalanche": {
+    "id": "avalanche",
+    "num": 419,
+    "power": 60,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "axekick": {
+    "id": "axekick",
+    "num": 853,
+    "power": 120,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "baddybad": {
+    "id": "baddybad",
+    "num": 737,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "barbbarrage": {
+    "id": "barbbarrage",
+    "num": 839,
+    "power": 60,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "barrage": {
+    "id": "barrage",
+    "num": 140,
+    "power": 15,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "beakblast": {
+    "id": "beakblast",
+    "num": 690,
+    "power": 100,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "beatup": {
+    "id": "beatup",
+    "num": 251,
+    "power": 0,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "behemothbash": {
+    "id": "behemothbash",
+    "num": 782,
+    "power": 100,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "behemothblade": {
+    "id": "behemothblade",
+    "num": 781,
+    "power": 100,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "belch": {
+    "id": "belch",
+    "num": 562,
+    "power": 120,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bide": {
+    "id": "bide",
+    "num": 117,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bind": {
+    "id": "bind",
+    "num": 20,
+    "power": 15,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bite": {
+    "id": "bite",
+    "num": 44,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bitterblade": {
+    "id": "bitterblade",
+    "num": 891,
+    "power": 90,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bittermalice": {
+    "id": "bittermalice",
+    "num": 841,
+    "power": 75,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "blastburn": {
+    "id": "blastburn",
+    "num": 307,
+    "power": 150,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "blazekick": {
+    "id": "blazekick",
+    "num": 299,
+    "power": 85,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "blazingtorque": {
+    "id": "blazingtorque",
+    "num": 896,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bleakwindstorm": {
+    "id": "bleakwindstorm",
+    "num": 846,
+    "power": 100,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "blizzard": {
+    "id": "blizzard",
+    "num": 59,
+    "power": 110,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bloodmoon": {
+    "id": "bloodmoon",
+    "num": 901,
+    "power": 140,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "blueflare": {
+    "id": "blueflare",
+    "num": 551,
+    "power": 130,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bodypress": {
+    "id": "bodypress",
+    "num": 776,
+    "power": 80,
+    "type": "Fighting",
+    "attack_stat": "def",
+    "defense_stat": "def"
+  },
+  "bodyslam": {
+    "id": "bodyslam",
+    "num": 34,
+    "power": 85,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "boltbeak": {
+    "id": "boltbeak",
+    "num": 754,
+    "power": 85,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "boltstrike": {
+    "id": "boltstrike",
+    "num": 550,
+    "power": 130,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "boneclub": {
+    "id": "boneclub",
+    "num": 125,
+    "power": 65,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bonemerang": {
+    "id": "bonemerang",
+    "num": 155,
+    "power": 50,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bonerush": {
+    "id": "bonerush",
+    "num": 198,
+    "power": 25,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "boomburst": {
+    "id": "boomburst",
+    "num": 586,
+    "power": 140,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bounce": {
+    "id": "bounce",
+    "num": 340,
+    "power": 85,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bouncybubble": {
+    "id": "bouncybubble",
+    "num": 733,
+    "power": 60,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "branchpoke": {
+    "id": "branchpoke",
+    "num": 785,
+    "power": 40,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bravebird": {
+    "id": "bravebird",
+    "num": 413,
+    "power": 120,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "breakingswipe": {
+    "id": "breakingswipe",
+    "num": 784,
+    "power": 60,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "brickbreak": {
+    "id": "brickbreak",
+    "num": 280,
+    "power": 75,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "brine": {
+    "id": "brine",
+    "num": 362,
+    "power": 65,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "brutalswing": {
+    "id": "brutalswing",
+    "num": 693,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bubble": {
+    "id": "bubble",
+    "num": 145,
+    "power": 40,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bubblebeam": {
+    "id": "bubblebeam",
+    "num": 61,
+    "power": 65,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bugbite": {
+    "id": "bugbite",
+    "num": 450,
+    "power": 60,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bugbuzz": {
+    "id": "bugbuzz",
+    "num": 405,
+    "power": 90,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "bulldoze": {
+    "id": "bulldoze",
+    "num": 523,
+    "power": 60,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bulletpunch": {
+    "id": "bulletpunch",
+    "num": 418,
+    "power": 40,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "bulletseed": {
+    "id": "bulletseed",
+    "num": 331,
+    "power": 25,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "burningjealousy": {
+    "id": "burningjealousy",
+    "num": 807,
+    "power": 70,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "burnup": {
+    "id": "burnup",
+    "num": 682,
+    "power": 130,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "buzzybuzz": {
+    "id": "buzzybuzz",
+    "num": 734,
+    "power": 60,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "ceaselessedge": {
+    "id": "ceaselessedge",
+    "num": 845,
+    "power": 65,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "chargebeam": {
+    "id": "chargebeam",
+    "num": 451,
+    "power": 50,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "chatter": {
+    "id": "chatter",
+    "num": 448,
+    "power": 65,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "chillingwater": {
+    "id": "chillingwater",
+    "num": 886,
+    "power": 50,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "chipaway": {
+    "id": "chipaway",
+    "num": 498,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "chloroblast": {
+    "id": "chloroblast",
+    "num": 835,
+    "power": 150,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "circlethrow": {
+    "id": "circlethrow",
+    "num": 509,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "clamp": {
+    "id": "clamp",
+    "num": 128,
+    "power": 35,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "clangingscales": {
+    "id": "clangingscales",
+    "num": 691,
+    "power": 110,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "clearsmog": {
+    "id": "clearsmog",
+    "num": 499,
+    "power": 50,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "closecombat": {
+    "id": "closecombat",
+    "num": 370,
+    "power": 120,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "collisioncourse": {
+    "id": "collisioncourse",
+    "num": 878,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "combattorque": {
+    "id": "combattorque",
+    "num": 899,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "cometpunch": {
+    "id": "cometpunch",
+    "num": 4,
+    "power": 18,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "comeuppance": {
+    "id": "comeuppance",
+    "num": 894,
+    "power": 0,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "confusion": {
+    "id": "confusion",
+    "num": 93,
+    "power": 50,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "constrict": {
+    "id": "constrict",
+    "num": 132,
+    "power": 10,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "coreenforcer": {
+    "id": "coreenforcer",
+    "num": 687,
+    "power": 100,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "counter": {
+    "id": "counter",
+    "num": 68,
+    "power": 0,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "covet": {
+    "id": "covet",
+    "num": 343,
+    "power": 60,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crabhammer": {
+    "id": "crabhammer",
+    "num": 152,
+    "power": 100,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crosschop": {
+    "id": "crosschop",
+    "num": 238,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crosspoison": {
+    "id": "crosspoison",
+    "num": 440,
+    "power": 70,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crunch": {
+    "id": "crunch",
+    "num": 242,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crushclaw": {
+    "id": "crushclaw",
+    "num": 306,
+    "power": 75,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "crushgrip": {
+    "id": "crushgrip",
+    "num": 462,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "cut": {
+    "id": "cut",
+    "num": 15,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "darkestlariat": {
+    "id": "darkestlariat",
+    "num": 663,
+    "power": 85,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "darkpulse": {
+    "id": "darkpulse",
+    "num": 399,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dazzlinggleam": {
+    "id": "dazzlinggleam",
+    "num": 605,
+    "power": 80,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "diamondstorm": {
+    "id": "diamondstorm",
+    "num": 591,
+    "power": 100,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dig": {
+    "id": "dig",
+    "num": 91,
+    "power": 80,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "direclaw": {
+    "id": "direclaw",
+    "num": 827,
+    "power": 80,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "disarmingvoice": {
+    "id": "disarmingvoice",
+    "num": 574,
+    "power": 40,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "discharge": {
+    "id": "discharge",
+    "num": 435,
+    "power": 80,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dive": {
+    "id": "dive",
+    "num": 291,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dizzypunch": {
+    "id": "dizzypunch",
+    "num": 146,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doomdesire": {
+    "id": "doomdesire",
+    "num": 353,
+    "power": 140,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "doubleedge": {
+    "id": "doubleedge",
+    "num": 38,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doublehit": {
+    "id": "doublehit",
+    "num": 458,
+    "power": 35,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doubleironbash": {
+    "id": "doubleironbash",
+    "num": 742,
+    "power": 60,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doublekick": {
+    "id": "doublekick",
+    "num": 24,
+    "power": 30,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doubleshock": {
+    "id": "doubleshock",
+    "num": 892,
+    "power": 120,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "doubleslap": {
+    "id": "doubleslap",
+    "num": 3,
+    "power": 15,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dracometeor": {
+    "id": "dracometeor",
+    "num": 434,
+    "power": 130,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dragonascent": {
+    "id": "dragonascent",
+    "num": 620,
+    "power": 120,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dragonbreath": {
+    "id": "dragonbreath",
+    "num": 225,
+    "power": 60,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dragonclaw": {
+    "id": "dragonclaw",
+    "num": 337,
+    "power": 80,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dragondarts": {
+    "id": "dragondarts",
+    "num": 751,
+    "power": 50,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dragonenergy": {
+    "id": "dragonenergy",
+    "num": 820,
+    "power": 150,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dragonhammer": {
+    "id": "dragonhammer",
+    "num": 692,
+    "power": 90,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dragonpulse": {
+    "id": "dragonpulse",
+    "num": 406,
+    "power": 85,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dragonrage": {
+    "id": "dragonrage",
+    "num": 82,
+    "power": 0,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dragonrush": {
+    "id": "dragonrush",
+    "num": 407,
+    "power": 100,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dragontail": {
+    "id": "dragontail",
+    "num": 525,
+    "power": 60,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "drainingkiss": {
+    "id": "drainingkiss",
+    "num": 577,
+    "power": 50,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "drainpunch": {
+    "id": "drainpunch",
+    "num": 409,
+    "power": 75,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dreameater": {
+    "id": "dreameater",
+    "num": 138,
+    "power": 100,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "drillpeck": {
+    "id": "drillpeck",
+    "num": 65,
+    "power": 80,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "drillrun": {
+    "id": "drillrun",
+    "num": 529,
+    "power": 80,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "drumbeating": {
+    "id": "drumbeating",
+    "num": 778,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dualchop": {
+    "id": "dualchop",
+    "num": 530,
+    "power": 40,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dualwingbeat": {
+    "id": "dualwingbeat",
+    "num": 814,
+    "power": 40,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "dynamaxcannon": {
+    "id": "dynamaxcannon",
+    "num": 744,
+    "power": 100,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "dynamicpunch": {
+    "id": "dynamicpunch",
+    "num": 223,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "earthpower": {
+    "id": "earthpower",
+    "num": 414,
+    "power": 90,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "earthquake": {
+    "id": "earthquake",
+    "num": 89,
+    "power": 100,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "echoedvoice": {
+    "id": "echoedvoice",
+    "num": 497,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "eeriespell": {
+    "id": "eeriespell",
+    "num": 826,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "eggbomb": {
+    "id": "eggbomb",
+    "num": 121,
+    "power": 100,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "electroball": {
+    "id": "electroball",
+    "num": 486,
+    "power": 0,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "electrodrift": {
+    "id": "electrodrift",
+    "num": 879,
+    "power": 100,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "electroshot": {
+    "id": "electroshot",
+    "num": 905,
+    "power": 130,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "electroweb": {
+    "id": "electroweb",
+    "num": 527,
+    "power": 55,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "ember": {
+    "id": "ember",
+    "num": 52,
+    "power": 40,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "endeavor": {
+    "id": "endeavor",
+    "num": 283,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "energyball": {
+    "id": "energyball",
+    "num": 412,
+    "power": 90,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "eruption": {
+    "id": "eruption",
+    "num": 284,
+    "power": 150,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "esperwing": {
+    "id": "esperwing",
+    "num": 840,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "eternabeam": {
+    "id": "eternabeam",
+    "num": 795,
+    "power": 160,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "expandingforce": {
+    "id": "expandingforce",
+    "num": 797,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "explosion": {
+    "id": "explosion",
+    "num": 153,
+    "power": 250,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "extrasensory": {
+    "id": "extrasensory",
+    "num": 326,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "extremespeed": {
+    "id": "extremespeed",
+    "num": 245,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "facade": {
+    "id": "facade",
+    "num": 263,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fairywind": {
+    "id": "fairywind",
+    "num": 584,
+    "power": 40,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fakeout": {
+    "id": "fakeout",
+    "num": 252,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "falsesurrender": {
+    "id": "falsesurrender",
+    "num": 793,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "falseswipe": {
+    "id": "falseswipe",
+    "num": 206,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "feint": {
+    "id": "feint",
+    "num": 364,
+    "power": 30,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "feintattack": {
+    "id": "feintattack",
+    "num": 185,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fellstinger": {
+    "id": "fellstinger",
+    "num": 565,
+    "power": 50,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ficklebeam": {
+    "id": "ficklebeam",
+    "num": 907,
+    "power": 80,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fierydance": {
+    "id": "fierydance",
+    "num": 552,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fierywrath": {
+    "id": "fierywrath",
+    "num": 822,
+    "power": 90,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "finalgambit": {
+    "id": "finalgambit",
+    "num": 515,
+    "power": 0,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fireblast": {
+    "id": "fireblast",
+    "num": 126,
+    "power": 110,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "firefang": {
+    "id": "firefang",
+    "num": 424,
+    "power": 65,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "firelash": {
+    "id": "firelash",
+    "num": 680,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "firepledge": {
+    "id": "firepledge",
+    "num": 519,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "firepunch": {
+    "id": "firepunch",
+    "num": 7,
+    "power": 75,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "firespin": {
+    "id": "firespin",
+    "num": 83,
+    "power": 35,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "firstimpression": {
+    "id": "firstimpression",
+    "num": 660,
+    "power": 90,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fishiousrend": {
+    "id": "fishiousrend",
+    "num": 755,
+    "power": 85,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flail": {
+    "id": "flail",
+    "num": 175,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flameburst": {
+    "id": "flameburst",
+    "num": 481,
+    "power": 70,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "flamecharge": {
+    "id": "flamecharge",
+    "num": 488,
+    "power": 50,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flamethrower": {
+    "id": "flamethrower",
+    "num": 53,
+    "power": 90,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "flamewheel": {
+    "id": "flamewheel",
+    "num": 172,
+    "power": 60,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flareblitz": {
+    "id": "flareblitz",
+    "num": 394,
+    "power": 120,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flashcannon": {
+    "id": "flashcannon",
+    "num": 430,
+    "power": 80,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fleurcannon": {
+    "id": "fleurcannon",
+    "num": 705,
+    "power": 130,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "fling": {
+    "id": "fling",
+    "num": 374,
+    "power": 0,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flipturn": {
+    "id": "flipturn",
+    "num": 812,
+    "power": 60,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "floatyfall": {
+    "id": "floatyfall",
+    "num": 731,
+    "power": 90,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flowertrick": {
+    "id": "flowertrick",
+    "num": 870,
+    "power": 70,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fly": {
+    "id": "fly",
+    "num": 19,
+    "power": 90,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "flyingpress": {
+    "id": "flyingpress",
+    "num": 560,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "focusblast": {
+    "id": "focusblast",
+    "num": 411,
+    "power": 120,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "focuspunch": {
+    "id": "focuspunch",
+    "num": 264,
+    "power": 150,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "forcepalm": {
+    "id": "forcepalm",
+    "num": 395,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "foulplay": {
+    "id": "foulplay",
+    "num": 492,
+    "power": 95,
+    "type": "Dark",
+    "attack_stat": "target.atk",
+    "defense_stat": "def"
+  },
+  "freezedry": {
+    "id": "freezedry",
+    "num": 573,
+    "power": 70,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "freezeshock": {
+    "id": "freezeshock",
+    "num": 553,
+    "power": 140,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "freezingglare": {
+    "id": "freezingglare",
+    "num": 821,
+    "power": 90,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "freezyfrost": {
+    "id": "freezyfrost",
+    "num": 739,
+    "power": 100,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "frenzyplant": {
+    "id": "frenzyplant",
+    "num": 338,
+    "power": 150,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "frostbreath": {
+    "id": "frostbreath",
+    "num": 524,
+    "power": 60,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "frustration": {
+    "id": "frustration",
+    "num": 218,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "furyattack": {
+    "id": "furyattack",
+    "num": 31,
+    "power": 15,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "furycutter": {
+    "id": "furycutter",
+    "num": 210,
+    "power": 40,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "furyswipes": {
+    "id": "furyswipes",
+    "num": 154,
+    "power": 18,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fusionbolt": {
+    "id": "fusionbolt",
+    "num": 559,
+    "power": 100,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "fusionflare": {
+    "id": "fusionflare",
+    "num": 558,
+    "power": 100,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "futuresight": {
+    "id": "futuresight",
+    "num": 248,
+    "power": 120,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "geargrind": {
+    "id": "geargrind",
+    "num": 544,
+    "power": 50,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "gigadrain": {
+    "id": "gigadrain",
+    "num": 202,
+    "power": 75,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "gigaimpact": {
+    "id": "gigaimpact",
+    "num": 416,
+    "power": 150,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "gigatonhammer": {
+    "id": "gigatonhammer",
+    "num": 893,
+    "power": 160,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "glaciallance": {
+    "id": "glaciallance",
+    "num": 824,
+    "power": 120,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "glaciate": {
+    "id": "glaciate",
+    "num": 549,
+    "power": 65,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "glaiverush": {
+    "id": "glaiverush",
+    "num": 862,
+    "power": 120,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "glitzyglow": {
+    "id": "glitzyglow",
+    "num": 736,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "grassknot": {
+    "id": "grassknot",
+    "num": 447,
+    "power": 0,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "grasspledge": {
+    "id": "grasspledge",
+    "num": 520,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "grassyglide": {
+    "id": "grassyglide",
+    "num": 803,
+    "power": 55,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "gravapple": {
+    "id": "gravapple",
+    "num": 788,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "gunkshot": {
+    "id": "gunkshot",
+    "num": 441,
+    "power": 120,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "gust": {
+    "id": "gust",
+    "num": 16,
+    "power": 40,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "gyroball": {
+    "id": "gyroball",
+    "num": 360,
+    "power": 0,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hammerarm": {
+    "id": "hammerarm",
+    "num": 359,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hardpress": {
+    "id": "hardpress",
+    "num": 912,
+    "power": 0,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "headbutt": {
+    "id": "headbutt",
+    "num": 29,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "headcharge": {
+    "id": "headcharge",
+    "num": 543,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "headlongrush": {
+    "id": "headlongrush",
+    "num": 838,
+    "power": 120,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "headsmash": {
+    "id": "headsmash",
+    "num": 457,
+    "power": 150,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "heartstamp": {
+    "id": "heartstamp",
+    "num": 531,
+    "power": 60,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "heatcrash": {
+    "id": "heatcrash",
+    "num": 535,
+    "power": 0,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "heatwave": {
+    "id": "heatwave",
+    "num": 257,
+    "power": 95,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "heavyslam": {
+    "id": "heavyslam",
+    "num": 484,
+    "power": 0,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hex": {
+    "id": "hex",
+    "num": 506,
+    "power": 65,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpower": {
+    "id": "hiddenpower",
+    "num": 237,
+    "power": 60,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerbug": {
+    "id": "hiddenpowerbug",
+    "num": 237,
+    "power": 60,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerdark": {
+    "id": "hiddenpowerdark",
+    "num": 237,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerdragon": {
+    "id": "hiddenpowerdragon",
+    "num": 237,
+    "power": 60,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerelectric": {
+    "id": "hiddenpowerelectric",
+    "num": 237,
+    "power": 60,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerfighting": {
+    "id": "hiddenpowerfighting",
+    "num": 237,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerfire": {
+    "id": "hiddenpowerfire",
+    "num": 237,
+    "power": 60,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerflying": {
+    "id": "hiddenpowerflying",
+    "num": 237,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerghost": {
+    "id": "hiddenpowerghost",
+    "num": 237,
+    "power": 60,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowergrass": {
+    "id": "hiddenpowergrass",
+    "num": 237,
+    "power": 60,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerground": {
+    "id": "hiddenpowerground",
+    "num": 237,
+    "power": 60,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerice": {
+    "id": "hiddenpowerice",
+    "num": 237,
+    "power": 60,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerpoison": {
+    "id": "hiddenpowerpoison",
+    "num": 237,
+    "power": 60,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerpsychic": {
+    "id": "hiddenpowerpsychic",
+    "num": 237,
+    "power": 60,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerrock": {
+    "id": "hiddenpowerrock",
+    "num": 237,
+    "power": 60,
+    "type": "Rock",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowersteel": {
+    "id": "hiddenpowersteel",
+    "num": 237,
+    "power": 60,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hiddenpowerwater": {
+    "id": "hiddenpowerwater",
+    "num": 237,
+    "power": 60,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "highhorsepower": {
+    "id": "highhorsepower",
+    "num": 667,
+    "power": 95,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "highjumpkick": {
+    "id": "highjumpkick",
+    "num": 136,
+    "power": 130,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "holdback": {
+    "id": "holdback",
+    "num": 610,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hornattack": {
+    "id": "hornattack",
+    "num": 30,
+    "power": 65,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hornleech": {
+    "id": "hornleech",
+    "num": 532,
+    "power": 75,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hurricane": {
+    "id": "hurricane",
+    "num": 542,
+    "power": 110,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hydrocannon": {
+    "id": "hydrocannon",
+    "num": 308,
+    "power": 150,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hydropump": {
+    "id": "hydropump",
+    "num": 56,
+    "power": 110,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hydrosteam": {
+    "id": "hydrosteam",
+    "num": 876,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hyperbeam": {
+    "id": "hyperbeam",
+    "num": 63,
+    "power": 150,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hyperdrill": {
+    "id": "hyperdrill",
+    "num": 887,
+    "power": 100,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hyperfang": {
+    "id": "hyperfang",
+    "num": 158,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hyperspacefury": {
+    "id": "hyperspacefury",
+    "num": 621,
+    "power": 100,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "hyperspacehole": {
+    "id": "hyperspacehole",
+    "num": 593,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "hypervoice": {
+    "id": "hypervoice",
+    "num": 304,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "iceball": {
+    "id": "iceball",
+    "num": 301,
+    "power": 30,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "icebeam": {
+    "id": "icebeam",
+    "num": 58,
+    "power": 90,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "iceburn": {
+    "id": "iceburn",
+    "num": 554,
+    "power": 140,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "icefang": {
+    "id": "icefang",
+    "num": 423,
+    "power": 65,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "icehammer": {
+    "id": "icehammer",
+    "num": 665,
+    "power": 100,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "icepunch": {
+    "id": "icepunch",
+    "num": 8,
+    "power": 75,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "iceshard": {
+    "id": "iceshard",
+    "num": 420,
+    "power": 40,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "icespinner": {
+    "id": "icespinner",
+    "num": 861,
+    "power": 80,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "iciclecrash": {
+    "id": "iciclecrash",
+    "num": 556,
+    "power": 85,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "iciclespear": {
+    "id": "iciclespear",
+    "num": 333,
+    "power": 25,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "icywind": {
+    "id": "icywind",
+    "num": 196,
+    "power": 55,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "incinerate": {
+    "id": "incinerate",
+    "num": 510,
+    "power": 60,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "infernalparade": {
+    "id": "infernalparade",
+    "num": 844,
+    "power": 60,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "inferno": {
+    "id": "inferno",
+    "num": 517,
+    "power": 100,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "infestation": {
+    "id": "infestation",
+    "num": 611,
+    "power": 20,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "ironhead": {
+    "id": "ironhead",
+    "num": 442,
+    "power": 80,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "irontail": {
+    "id": "irontail",
+    "num": 231,
+    "power": 100,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ivycudgel": {
+    "id": "ivycudgel",
+    "num": 904,
+    "power": 100,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "jawlock": {
+    "id": "jawlock",
+    "num": 746,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "jetpunch": {
+    "id": "jetpunch",
+    "num": 857,
+    "power": 60,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "judgment": {
+    "id": "judgment",
+    "num": 449,
+    "power": 100,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "jumpkick": {
+    "id": "jumpkick",
+    "num": 26,
+    "power": 100,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "karatechop": {
+    "id": "karatechop",
+    "num": 2,
+    "power": 50,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "knockoff": {
+    "id": "knockoff",
+    "num": 282,
+    "power": 65,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "kowtowcleave": {
+    "id": "kowtowcleave",
+    "num": 869,
+    "power": 85,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "landswrath": {
+    "id": "landswrath",
+    "num": 616,
+    "power": 90,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lashout": {
+    "id": "lashout",
+    "num": 808,
+    "power": 75,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lastresort": {
+    "id": "lastresort",
+    "num": 387,
+    "power": 140,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lastrespects": {
+    "id": "lastrespects",
+    "num": 854,
+    "power": 50,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lavaplume": {
+    "id": "lavaplume",
+    "num": 436,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "leafage": {
+    "id": "leafage",
+    "num": 670,
+    "power": 40,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "leafblade": {
+    "id": "leafblade",
+    "num": 348,
+    "power": 90,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "leafstorm": {
+    "id": "leafstorm",
+    "num": 437,
+    "power": 130,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "leaftornado": {
+    "id": "leaftornado",
+    "num": 536,
+    "power": 65,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "leechlife": {
+    "id": "leechlife",
+    "num": 141,
+    "power": 80,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lick": {
+    "id": "lick",
+    "num": 122,
+    "power": 30,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lightofruin": {
+    "id": "lightofruin",
+    "num": 617,
+    "power": 140,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "liquidation": {
+    "id": "liquidation",
+    "num": 710,
+    "power": 85,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lowkick": {
+    "id": "lowkick",
+    "num": 67,
+    "power": 0,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lowsweep": {
+    "id": "lowsweep",
+    "num": 490,
+    "power": 65,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "luminacrash": {
+    "id": "luminacrash",
+    "num": 855,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "lunge": {
+    "id": "lunge",
+    "num": 679,
+    "power": 80,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "lusterpurge": {
+    "id": "lusterpurge",
+    "num": 295,
+    "power": 95,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "machpunch": {
+    "id": "machpunch",
+    "num": 183,
+    "power": 40,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "magicalleaf": {
+    "id": "magicalleaf",
+    "num": 345,
+    "power": 60,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "magicaltorque": {
+    "id": "magicaltorque",
+    "num": 900,
+    "power": 100,
+    "type": "Fairy",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "magmastorm": {
+    "id": "magmastorm",
+    "num": 463,
+    "power": 100,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "magnetbomb": {
+    "id": "magnetbomb",
+    "num": 443,
+    "power": 60,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "magnitude": {
+    "id": "magnitude",
+    "num": 222,
+    "power": 0,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "makeitrain": {
+    "id": "makeitrain",
+    "num": 874,
+    "power": 120,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "malignantchain": {
+    "id": "malignantchain",
+    "num": 919,
+    "power": 100,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "matchagotcha": {
+    "id": "matchagotcha",
+    "num": 902,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "megadrain": {
+    "id": "megadrain",
+    "num": 72,
+    "power": 40,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "megahorn": {
+    "id": "megahorn",
+    "num": 224,
+    "power": 120,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "megakick": {
+    "id": "megakick",
+    "num": 25,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "megapunch": {
+    "id": "megapunch",
+    "num": 5,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "metalburst": {
+    "id": "metalburst",
+    "num": 368,
+    "power": 0,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "metalclaw": {
+    "id": "metalclaw",
+    "num": 232,
+    "power": 50,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "meteorassault": {
+    "id": "meteorassault",
+    "num": 794,
+    "power": 150,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "meteorbeam": {
+    "id": "meteorbeam",
+    "num": 800,
+    "power": 120,
+    "type": "Rock",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "meteormash": {
+    "id": "meteormash",
+    "num": 309,
+    "power": 90,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "mightycleave": {
+    "id": "mightycleave",
+    "num": 910,
+    "power": 95,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "mindblown": {
+    "id": "mindblown",
+    "num": 720,
+    "power": 150,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mirrorcoat": {
+    "id": "mirrorcoat",
+    "num": 243,
+    "power": 0,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mirrorshot": {
+    "id": "mirrorshot",
+    "num": 429,
+    "power": 65,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mistball": {
+    "id": "mistball",
+    "num": 296,
+    "power": 95,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mistyexplosion": {
+    "id": "mistyexplosion",
+    "num": 802,
+    "power": 100,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "moonblast": {
+    "id": "moonblast",
+    "num": 585,
+    "power": 95,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "moongeistbeam": {
+    "id": "moongeistbeam",
+    "num": 714,
+    "power": 100,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mortalspin": {
+    "id": "mortalspin",
+    "num": 866,
+    "power": 30,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "mountaingale": {
+    "id": "mountaingale",
+    "num": 836,
+    "power": 100,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "mudbomb": {
+    "id": "mudbomb",
+    "num": 426,
+    "power": 65,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "muddywater": {
+    "id": "muddywater",
+    "num": 330,
+    "power": 90,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mudshot": {
+    "id": "mudshot",
+    "num": 341,
+    "power": 55,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mudslap": {
+    "id": "mudslap",
+    "num": 189,
+    "power": 20,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "multiattack": {
+    "id": "multiattack",
+    "num": 718,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "mysticalfire": {
+    "id": "mysticalfire",
+    "num": 595,
+    "power": 75,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "mysticalpower": {
+    "id": "mysticalpower",
+    "num": 832,
+    "power": 70,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "naturalgift": {
+    "id": "naturalgift",
+    "num": 363,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "naturesmadness": {
+    "id": "naturesmadness",
+    "num": 717,
+    "power": 0,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "needlearm": {
+    "id": "needlearm",
+    "num": 302,
+    "power": 60,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "nightdaze": {
+    "id": "nightdaze",
+    "num": 539,
+    "power": 85,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "nightshade": {
+    "id": "nightshade",
+    "num": 101,
+    "power": 0,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "nightslash": {
+    "id": "nightslash",
+    "num": 400,
+    "power": 70,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "nihillight": {
+    "id": "nihillight",
+    "num": 920,
+    "power": 100,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "noxioustorque": {
+    "id": "noxioustorque",
+    "num": 898,
+    "power": 100,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "nuzzle": {
+    "id": "nuzzle",
+    "num": 609,
+    "power": 20,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "oblivionwing": {
+    "id": "oblivionwing",
+    "num": 613,
+    "power": 80,
+    "type": "Flying",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "octazooka": {
+    "id": "octazooka",
+    "num": 190,
+    "power": 65,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "ominouswind": {
+    "id": "ominouswind",
+    "num": 466,
+    "power": 60,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "orderup": {
+    "id": "orderup",
+    "num": 856,
+    "power": 80,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "originpulse": {
+    "id": "originpulse",
+    "num": 618,
+    "power": 110,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "outrage": {
+    "id": "outrage",
+    "num": 200,
+    "power": 120,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "overdrive": {
+    "id": "overdrive",
+    "num": 786,
+    "power": 80,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "overheat": {
+    "id": "overheat",
+    "num": 315,
+    "power": 130,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "paraboliccharge": {
+    "id": "paraboliccharge",
+    "num": 570,
+    "power": 65,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "payback": {
+    "id": "payback",
+    "num": 371,
+    "power": 50,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "payday": {
+    "id": "payday",
+    "num": 6,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "peck": {
+    "id": "peck",
+    "num": 64,
+    "power": 35,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "petalblizzard": {
+    "id": "petalblizzard",
+    "num": 572,
+    "power": 90,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "petaldance": {
+    "id": "petaldance",
+    "num": 80,
+    "power": 120,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "phantomforce": {
+    "id": "phantomforce",
+    "num": 566,
+    "power": 90,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "photongeyser": {
+    "id": "photongeyser",
+    "num": 722,
+    "power": 100,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "pikapapow": {
+    "id": "pikapapow",
+    "num": 732,
+    "power": 0,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "pinmissile": {
+    "id": "pinmissile",
+    "num": 42,
+    "power": 25,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "plasmafists": {
+    "id": "plasmafists",
+    "num": 721,
+    "power": 100,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "playrough": {
+    "id": "playrough",
+    "num": 583,
+    "power": 90,
+    "type": "Fairy",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pluck": {
+    "id": "pluck",
+    "num": 365,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "poisonfang": {
+    "id": "poisonfang",
+    "num": 305,
+    "power": 50,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "poisonjab": {
+    "id": "poisonjab",
+    "num": 398,
+    "power": 80,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "poisonsting": {
+    "id": "poisonsting",
+    "num": 40,
+    "power": 15,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "poisontail": {
+    "id": "poisontail",
+    "num": 342,
+    "power": 50,
+    "type": "Poison",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pollenpuff": {
+    "id": "pollenpuff",
+    "num": 676,
+    "power": 90,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "poltergeist": {
+    "id": "poltergeist",
+    "num": 809,
+    "power": 110,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "populationbomb": {
+    "id": "populationbomb",
+    "num": 860,
+    "power": 20,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pounce": {
+    "id": "pounce",
+    "num": 884,
+    "power": 50,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pound": {
+    "id": "pound",
+    "num": 1,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "powdersnow": {
+    "id": "powdersnow",
+    "num": 181,
+    "power": 40,
+    "type": "Ice",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "powergem": {
+    "id": "powergem",
+    "num": 408,
+    "power": 80,
+    "type": "Rock",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "powertrip": {
+    "id": "powertrip",
+    "num": 681,
+    "power": 20,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "poweruppunch": {
+    "id": "poweruppunch",
+    "num": 612,
+    "power": 40,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "powerwhip": {
+    "id": "powerwhip",
+    "num": 438,
+    "power": 120,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "precipiceblades": {
+    "id": "precipiceblades",
+    "num": 619,
+    "power": 120,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "present": {
+    "id": "present",
+    "num": 217,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "prismaticlaser": {
+    "id": "prismaticlaser",
+    "num": 711,
+    "power": 160,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "psybeam": {
+    "id": "psybeam",
+    "num": 60,
+    "power": 65,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "psyblade": {
+    "id": "psyblade",
+    "num": 875,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "psychic": {
+    "id": "psychic",
+    "num": 94,
+    "power": 90,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "psychicfangs": {
+    "id": "psychicfangs",
+    "num": 706,
+    "power": 85,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "psychicnoise": {
+    "id": "psychicnoise",
+    "num": 917,
+    "power": 75,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "psychoboost": {
+    "id": "psychoboost",
+    "num": 354,
+    "power": 140,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "psychocut": {
+    "id": "psychocut",
+    "num": 427,
+    "power": 70,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "psyshieldbash": {
+    "id": "psyshieldbash",
+    "num": 828,
+    "power": 70,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "psyshock": {
+    "id": "psyshock",
+    "num": 473,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "def"
+  },
+  "psystrike": {
+    "id": "psystrike",
+    "num": 540,
+    "power": 100,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "def"
+  },
+  "psywave": {
+    "id": "psywave",
+    "num": 149,
+    "power": 0,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "punishment": {
+    "id": "punishment",
+    "num": 386,
+    "power": 0,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pursuit": {
+    "id": "pursuit",
+    "num": 228,
+    "power": 40,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "pyroball": {
+    "id": "pyroball",
+    "num": 780,
+    "power": 120,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "quickattack": {
+    "id": "quickattack",
+    "num": 98,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rage": {
+    "id": "rage",
+    "num": 99,
+    "power": 20,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ragefist": {
+    "id": "ragefist",
+    "num": 889,
+    "power": 50,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ragingbull": {
+    "id": "ragingbull",
+    "num": 873,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "ragingfury": {
+    "id": "ragingfury",
+    "num": 833,
+    "power": 120,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rapidspin": {
+    "id": "rapidspin",
+    "num": 229,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "razorleaf": {
+    "id": "razorleaf",
+    "num": 75,
+    "power": 55,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "razorshell": {
+    "id": "razorshell",
+    "num": 534,
+    "power": 75,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "razorwind": {
+    "id": "razorwind",
+    "num": 13,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "relicsong": {
+    "id": "relicsong",
+    "num": 547,
+    "power": 75,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "retaliate": {
+    "id": "retaliate",
+    "num": 514,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "return": {
+    "id": "return",
+    "num": 216,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "revelationdance": {
+    "id": "revelationdance",
+    "num": 686,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "revenge": {
+    "id": "revenge",
+    "num": 279,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "reversal": {
+    "id": "reversal",
+    "num": 179,
+    "power": 0,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "risingvoltage": {
+    "id": "risingvoltage",
+    "num": 804,
+    "power": 70,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "roaroftime": {
+    "id": "roaroftime",
+    "num": 459,
+    "power": 150,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "rockblast": {
+    "id": "rockblast",
+    "num": 350,
+    "power": 25,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rockclimb": {
+    "id": "rockclimb",
+    "num": 431,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rockslide": {
+    "id": "rockslide",
+    "num": 157,
+    "power": 75,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rocksmash": {
+    "id": "rocksmash",
+    "num": 249,
+    "power": 40,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rockthrow": {
+    "id": "rockthrow",
+    "num": 88,
+    "power": 50,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rocktomb": {
+    "id": "rocktomb",
+    "num": 317,
+    "power": 60,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rockwrecker": {
+    "id": "rockwrecker",
+    "num": 439,
+    "power": 150,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rollingkick": {
+    "id": "rollingkick",
+    "num": 27,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "rollout": {
+    "id": "rollout",
+    "num": 205,
+    "power": 30,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "round": {
+    "id": "round",
+    "num": 496,
+    "power": 60,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "ruination": {
+    "id": "ruination",
+    "num": 877,
+    "power": 0,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sacredfire": {
+    "id": "sacredfire",
+    "num": 221,
+    "power": 100,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sacredsword": {
+    "id": "sacredsword",
+    "num": 533,
+    "power": 90,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "saltcure": {
+    "id": "saltcure",
+    "num": 864,
+    "power": 40,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sandsearstorm": {
+    "id": "sandsearstorm",
+    "num": 848,
+    "power": 100,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sandtomb": {
+    "id": "sandtomb",
+    "num": 328,
+    "power": 35,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sappyseed": {
+    "id": "sappyseed",
+    "num": 738,
+    "power": 100,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "scald": {
+    "id": "scald",
+    "num": 503,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "scaleshot": {
+    "id": "scaleshot",
+    "num": 799,
+    "power": 25,
+    "type": "Dragon",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "scorchingsands": {
+    "id": "scorchingsands",
+    "num": 815,
+    "power": 70,
+    "type": "Ground",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "scratch": {
+    "id": "scratch",
+    "num": 10,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "searingshot": {
+    "id": "searingshot",
+    "num": 545,
+    "power": 100,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "secretpower": {
+    "id": "secretpower",
+    "num": 290,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "secretsword": {
+    "id": "secretsword",
+    "num": 548,
+    "power": 85,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "def"
+  },
+  "seedbomb": {
+    "id": "seedbomb",
+    "num": 402,
+    "power": 80,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "seedflare": {
+    "id": "seedflare",
+    "num": 465,
+    "power": 120,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "seismictoss": {
+    "id": "seismictoss",
+    "num": 69,
+    "power": 0,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "selfdestruct": {
+    "id": "selfdestruct",
+    "num": 120,
+    "power": 200,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shadowball": {
+    "id": "shadowball",
+    "num": 247,
+    "power": 80,
+    "type": "Ghost",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "shadowbone": {
+    "id": "shadowbone",
+    "num": 708,
+    "power": 85,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shadowclaw": {
+    "id": "shadowclaw",
+    "num": 421,
+    "power": 70,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shadowforce": {
+    "id": "shadowforce",
+    "num": 467,
+    "power": 120,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shadowpunch": {
+    "id": "shadowpunch",
+    "num": 325,
+    "power": 60,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shadowsneak": {
+    "id": "shadowsneak",
+    "num": 425,
+    "power": 40,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "shellsidearm": {
+    "id": "shellsidearm",
+    "num": 801,
+    "power": 90,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "shelltrap": {
+    "id": "shelltrap",
+    "num": 704,
+    "power": 150,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "shockwave": {
+    "id": "shockwave",
+    "num": 351,
+    "power": 60,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "signalbeam": {
+    "id": "signalbeam",
+    "num": 324,
+    "power": 75,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "silverwind": {
+    "id": "silverwind",
+    "num": 318,
+    "power": 60,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sizzlyslide": {
+    "id": "sizzlyslide",
+    "num": 735,
+    "power": 60,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "skittersmack": {
+    "id": "skittersmack",
+    "num": 806,
+    "power": 70,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "skullbash": {
+    "id": "skullbash",
+    "num": 130,
+    "power": 130,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "skyattack": {
+    "id": "skyattack",
+    "num": 143,
+    "power": 140,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "skydrop": {
+    "id": "skydrop",
+    "num": 507,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "skyuppercut": {
+    "id": "skyuppercut",
+    "num": 327,
+    "power": 85,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "slam": {
+    "id": "slam",
+    "num": 21,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "slash": {
+    "id": "slash",
+    "num": 163,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sludge": {
+    "id": "sludge",
+    "num": 124,
+    "power": 65,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sludgebomb": {
+    "id": "sludgebomb",
+    "num": 188,
+    "power": 90,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sludgewave": {
+    "id": "sludgewave",
+    "num": 482,
+    "power": 95,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "smackdown": {
+    "id": "smackdown",
+    "num": 479,
+    "power": 50,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "smartstrike": {
+    "id": "smartstrike",
+    "num": 684,
+    "power": 70,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "smellingsalts": {
+    "id": "smellingsalts",
+    "num": 265,
+    "power": 70,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "smog": {
+    "id": "smog",
+    "num": 123,
+    "power": 30,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "snaptrap": {
+    "id": "snaptrap",
+    "num": 779,
+    "power": 35,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "snarl": {
+    "id": "snarl",
+    "num": 555,
+    "power": 55,
+    "type": "Dark",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "snipeshot": {
+    "id": "snipeshot",
+    "num": 745,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "snore": {
+    "id": "snore",
+    "num": 173,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "solarbeam": {
+    "id": "solarbeam",
+    "num": 76,
+    "power": 120,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "solarblade": {
+    "id": "solarblade",
+    "num": 669,
+    "power": 125,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sonicboom": {
+    "id": "sonicboom",
+    "num": 49,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "spacialrend": {
+    "id": "spacialrend",
+    "num": 460,
+    "power": 100,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "spark": {
+    "id": "spark",
+    "num": 209,
+    "power": 65,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sparklingaria": {
+    "id": "sparklingaria",
+    "num": 664,
+    "power": 90,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "sparklyswirl": {
+    "id": "sparklyswirl",
+    "num": 740,
+    "power": 120,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "spectralthief": {
+    "id": "spectralthief",
+    "num": 712,
+    "power": 90,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "spikecannon": {
+    "id": "spikecannon",
+    "num": 131,
+    "power": 20,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "spinout": {
+    "id": "spinout",
+    "num": 859,
+    "power": 100,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "spiritbreak": {
+    "id": "spiritbreak",
+    "num": 789,
+    "power": 75,
+    "type": "Fairy",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "spiritshackle": {
+    "id": "spiritshackle",
+    "num": 662,
+    "power": 80,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "spitup": {
+    "id": "spitup",
+    "num": 255,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "splishysplash": {
+    "id": "splishysplash",
+    "num": 730,
+    "power": 90,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "springtidestorm": {
+    "id": "springtidestorm",
+    "num": 831,
+    "power": 100,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "steameruption": {
+    "id": "steameruption",
+    "num": 592,
+    "power": 110,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "steamroller": {
+    "id": "steamroller",
+    "num": 537,
+    "power": 65,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "steelbeam": {
+    "id": "steelbeam",
+    "num": 796,
+    "power": 140,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "steelroller": {
+    "id": "steelroller",
+    "num": 798,
+    "power": 130,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "steelwing": {
+    "id": "steelwing",
+    "num": 211,
+    "power": 70,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "stomp": {
+    "id": "stomp",
+    "num": 23,
+    "power": 65,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "stompingtantrum": {
+    "id": "stompingtantrum",
+    "num": 707,
+    "power": 75,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "stoneaxe": {
+    "id": "stoneaxe",
+    "num": 830,
+    "power": 65,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "stoneedge": {
+    "id": "stoneedge",
+    "num": 444,
+    "power": 100,
+    "type": "Rock",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "storedpower": {
+    "id": "storedpower",
+    "num": 500,
+    "power": 20,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "stormthrow": {
+    "id": "stormthrow",
+    "num": 480,
+    "power": 60,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "strangesteam": {
+    "id": "strangesteam",
+    "num": 790,
+    "power": 90,
+    "type": "Fairy",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "strength": {
+    "id": "strength",
+    "num": 70,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "struggle": {
+    "id": "struggle",
+    "num": 165,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "strugglebug": {
+    "id": "strugglebug",
+    "num": 522,
+    "power": 50,
+    "type": "Bug",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "submission": {
+    "id": "submission",
+    "num": 66,
+    "power": 80,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "suckerpunch": {
+    "id": "suckerpunch",
+    "num": 389,
+    "power": 70,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "sunsteelstrike": {
+    "id": "sunsteelstrike",
+    "num": 713,
+    "power": 100,
+    "type": "Steel",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "supercellslam": {
+    "id": "supercellslam",
+    "num": 916,
+    "power": 100,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "superfang": {
+    "id": "superfang",
+    "num": 162,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "superpower": {
+    "id": "superpower",
+    "num": 276,
+    "power": 120,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "surf": {
+    "id": "surf",
+    "num": 57,
+    "power": 90,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "surgingstrikes": {
+    "id": "surgingstrikes",
+    "num": 818,
+    "power": 25,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "swift": {
+    "id": "swift",
+    "num": 129,
+    "power": 60,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "synchronoise": {
+    "id": "synchronoise",
+    "num": 485,
+    "power": 120,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "syrupbomb": {
+    "id": "syrupbomb",
+    "num": 903,
+    "power": 60,
+    "type": "Grass",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "tachyoncutter": {
+    "id": "tachyoncutter",
+    "num": 911,
+    "power": 50,
+    "type": "Steel",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "tackle": {
+    "id": "tackle",
+    "num": 33,
+    "power": 40,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "tailslap": {
+    "id": "tailslap",
+    "num": 541,
+    "power": 25,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "takedown": {
+    "id": "takedown",
+    "num": 36,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "technoblast": {
+    "id": "technoblast",
+    "num": 546,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "temperflare": {
+    "id": "temperflare",
+    "num": 915,
+    "power": 75,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "terablast": {
+    "id": "terablast",
+    "num": 851,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "terastarstorm": {
+    "id": "terastarstorm",
+    "num": 906,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "terrainpulse": {
+    "id": "terrainpulse",
+    "num": 805,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "thief": {
+    "id": "thief",
+    "num": 168,
+    "power": 60,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thousandarrows": {
+    "id": "thousandarrows",
+    "num": 614,
+    "power": 90,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thousandwaves": {
+    "id": "thousandwaves",
+    "num": 615,
+    "power": 90,
+    "type": "Ground",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thrash": {
+    "id": "thrash",
+    "num": 37,
+    "power": 120,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "throatchop": {
+    "id": "throatchop",
+    "num": 675,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thunder": {
+    "id": "thunder",
+    "num": 87,
+    "power": 110,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "thunderbolt": {
+    "id": "thunderbolt",
+    "num": 85,
+    "power": 90,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "thundercage": {
+    "id": "thundercage",
+    "num": 819,
+    "power": 80,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "thunderclap": {
+    "id": "thunderclap",
+    "num": 909,
+    "power": 70,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "thunderfang": {
+    "id": "thunderfang",
+    "num": 422,
+    "power": 65,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thunderouskick": {
+    "id": "thunderouskick",
+    "num": 823,
+    "power": 90,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thunderpunch": {
+    "id": "thunderpunch",
+    "num": 9,
+    "power": 75,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "thundershock": {
+    "id": "thundershock",
+    "num": 84,
+    "power": 40,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "torchsong": {
+    "id": "torchsong",
+    "num": 871,
+    "power": 80,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "trailblaze": {
+    "id": "trailblaze",
+    "num": 885,
+    "power": 50,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "triattack": {
+    "id": "triattack",
+    "num": 161,
+    "power": 80,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "triplearrows": {
+    "id": "triplearrows",
+    "num": 843,
+    "power": 90,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "tripleaxel": {
+    "id": "tripleaxel",
+    "num": 813,
+    "power": 20,
+    "type": "Ice",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "tripledive": {
+    "id": "tripledive",
+    "num": 865,
+    "power": 30,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "triplekick": {
+    "id": "triplekick",
+    "num": 167,
+    "power": 10,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "tropkick": {
+    "id": "tropkick",
+    "num": 688,
+    "power": 70,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "trumpcard": {
+    "id": "trumpcard",
+    "num": 376,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "twinbeam": {
+    "id": "twinbeam",
+    "num": 888,
+    "power": 40,
+    "type": "Psychic",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "twineedle": {
+    "id": "twineedle",
+    "num": 41,
+    "power": 25,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "twister": {
+    "id": "twister",
+    "num": 239,
+    "power": 40,
+    "type": "Dragon",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "upperhand": {
+    "id": "upperhand",
+    "num": 918,
+    "power": 65,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "uproar": {
+    "id": "uproar",
+    "num": 253,
+    "power": 90,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "uturn": {
+    "id": "uturn",
+    "num": 369,
+    "power": 70,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "vacuumwave": {
+    "id": "vacuumwave",
+    "num": 410,
+    "power": 40,
+    "type": "Fighting",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "vcreate": {
+    "id": "vcreate",
+    "num": 557,
+    "power": 180,
+    "type": "Fire",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "veeveevolley": {
+    "id": "veeveevolley",
+    "num": 741,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "venoshock": {
+    "id": "venoshock",
+    "num": 474,
+    "power": 65,
+    "type": "Poison",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "vinewhip": {
+    "id": "vinewhip",
+    "num": 22,
+    "power": 45,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "visegrip": {
+    "id": "visegrip",
+    "num": 11,
+    "power": 55,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "vitalthrow": {
+    "id": "vitalthrow",
+    "num": 233,
+    "power": 70,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "voltswitch": {
+    "id": "voltswitch",
+    "num": 521,
+    "power": 70,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "volttackle": {
+    "id": "volttackle",
+    "num": 344,
+    "power": 120,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wakeupslap": {
+    "id": "wakeupslap",
+    "num": 358,
+    "power": 70,
+    "type": "Fighting",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "waterfall": {
+    "id": "waterfall",
+    "num": 127,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "watergun": {
+    "id": "watergun",
+    "num": 55,
+    "power": 40,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "waterpledge": {
+    "id": "waterpledge",
+    "num": 518,
+    "power": 80,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "waterpulse": {
+    "id": "waterpulse",
+    "num": 352,
+    "power": 60,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "watershuriken": {
+    "id": "watershuriken",
+    "num": 594,
+    "power": 15,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "waterspout": {
+    "id": "waterspout",
+    "num": 323,
+    "power": 150,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "wavecrash": {
+    "id": "wavecrash",
+    "num": 834,
+    "power": 120,
+    "type": "Water",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "weatherball": {
+    "id": "weatherball",
+    "num": 311,
+    "power": 50,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "whirlpool": {
+    "id": "whirlpool",
+    "num": 250,
+    "power": 35,
+    "type": "Water",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "wickedblow": {
+    "id": "wickedblow",
+    "num": 817,
+    "power": 75,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wickedtorque": {
+    "id": "wickedtorque",
+    "num": 897,
+    "power": 80,
+    "type": "Dark",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wildboltstorm": {
+    "id": "wildboltstorm",
+    "num": 847,
+    "power": 100,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "wildcharge": {
+    "id": "wildcharge",
+    "num": 528,
+    "power": 90,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wingattack": {
+    "id": "wingattack",
+    "num": 17,
+    "power": 60,
+    "type": "Flying",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "woodhammer": {
+    "id": "woodhammer",
+    "num": 452,
+    "power": 120,
+    "type": "Grass",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wrap": {
+    "id": "wrap",
+    "num": 35,
+    "power": 15,
+    "type": "Normal",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "wringout": {
+    "id": "wringout",
+    "num": 378,
+    "power": 0,
+    "type": "Normal",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "xscissor": {
+    "id": "xscissor",
+    "num": 404,
+    "power": 80,
+    "type": "Bug",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "zapcannon": {
+    "id": "zapcannon",
+    "num": 192,
+    "power": 120,
+    "type": "Electric",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "zenheadbutt": {
+    "id": "zenheadbutt",
+    "num": 428,
+    "power": 80,
+    "type": "Psychic",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "zingzap": {
+    "id": "zingzap",
+    "num": 716,
+    "power": 80,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "zippyzap": {
+    "id": "zippyzap",
+    "num": 729,
+    "power": 80,
+    "type": "Electric",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "paleowave": {
+    "id": "paleowave",
+    "num": -1,
+    "power": 85,
+    "type": "Rock",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  },
+  "shadowstrike": {
+    "id": "shadowstrike",
+    "num": -2,
+    "power": 80,
+    "type": "Ghost",
+    "attack_stat": "atk",
+    "defense_stat": "def"
+  },
+  "polarflare": {
+    "id": "polarflare",
+    "num": -3,
+    "power": 75,
+    "type": "Fire",
+    "attack_stat": "spa",
+    "defense_stat": "spd"
+  }
+}
